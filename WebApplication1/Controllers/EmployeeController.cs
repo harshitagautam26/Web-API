@@ -120,7 +120,7 @@ namespace WebApplication1.Controllers
         }
 
         [Route("api/Employee/GetAllDepartmentNames")]
-        [HttpGet]
+        [System.Web.Http.HttpGet]
         public HttpResponseMessage GetAllDepartmentNames()
         {
             string query = @"

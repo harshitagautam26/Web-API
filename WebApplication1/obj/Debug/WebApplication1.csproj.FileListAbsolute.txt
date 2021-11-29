@@ -83,3 +83,6 @@ C:\AngularWebAPI\api\WebAPI\WebApplication1\obj\Debug\WebApplication1.pdb
 C:\AngularWebAPI\api\WebAPI\WebApplication1\bin\System.Web.Cors.dll
 C:\AngularWebAPI\api\WebAPI\WebApplication1\bin\System.Web.Http.Cors.dll
 C:\AngularWebAPI\api\WebAPI\WebApplication1\bin\System.Web.Http.Cors.xml
+C:\AngularWebAPI\api\WebAPI\WebApplication1\bin\Microsoft.Owin.dll
+C:\AngularWebAPI\api\WebAPI\WebApplication1\bin\Owin.dll
+C:\AngularWebAPI\api\WebAPI\WebApplication1\bin\Microsoft.Owin.xml
